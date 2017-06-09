@@ -6,6 +6,9 @@ public class test1 {
 	}
 	public static void main(String[] args) {
 		System.out.println(new test1().getName());
+		
+		new test1();
+		new test1();
 		new test1();
 	}
 }
